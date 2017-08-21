@@ -141,14 +141,43 @@
             </div>
          </div>
       </div>
-      <div class="copyright">
+      <div class="f_bottom fleft">
          <div class="container">
-            <div class="row">
-               <div class="col-md-3 col-sm-12">
-                  <div class="copyright-text">© 2017, Все права защищены</div>
+            <div class="fleft">
+               <!-- <div class="f_payments">
+                  <span class="visa flaticon_pay-symbols"></span>
+                  <span class="mastercard flaticon_pay-symbol"></span>
+                  <span class="webmoney flaticon_pay-webmoney-paying-logo"></span>
+                  <span class="yamoney flaticon_pay-yandex-pay-logo"></span>
+               </div>  Значки оплаты --> 
+               <div class="f_copy">© "<a href="http://palitra-stroy.ru/">ПАLИТРА-СТРОЙ</a>" 2016. Все права защищены</div>
+            </div>
+            <div class="right">
+               <div class="palitra fright">
+                  <!-- <div class="palitra_cubes">
+                     <div class="palitra_row">
+                        <div class="palitra_cube palitra_cube_1"></div>
+                        <div class="palitra_cube palitra_cube_2"></div>
+                        <div class="palitra_cube palitra_cube_3"></div>
+                     </div>
+                     <div class="palitra_row">
+                        <div class="palitra_cube palitra_cube_4"></div>
+                        <div class="palitra_cube palitra_cube_5"></div>
+                        <div class="palitra_cube palitra_cube_6"></div>
+                     </div>
+                     <div class="palitra_row">
+                        <div class="palitra_cube palitra_cube_7"></div>
+                        <div class="palitra_cube palitra_cube_8"></div>
+                        <div class="palitra_cube palitra_cube_9"></div>
+                     </div>
+                  </div> -->
+                  <a href="http://www.media-consalt.ru/" class="palitra_logo" title="Создание и продвижение сайтов" target="_blank">
+                     <img src="assets/tpl/images/media.png" alt="Создание и продвижение сайтов" style="padding-bottom: 10px;padding-top: 7px;">
+                     <div>создание и продвижение сайтов</div>
+                  </a>
                </div>
-               <div class="col-md-4 col-sm-12 pull-right">
-                  <a href="#" class="dev-logo text-right"><img src="i/palitra.png" width="305px" height="27px" alt="IT-ПАLИТРА — создание и продвижение сайтов"><div class="text-right">создание и продвижение сайтов</div></a>
+               <div class="f_count cf fright">
+                  <img src="assets/tpl/images/count.gif" alt="Счетчик" width="88" height="31">
                </div>
             </div>
          </div>

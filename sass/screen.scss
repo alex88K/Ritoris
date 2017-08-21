@@ -1611,24 +1611,59 @@ input.search-input {
 	}
 }
 
-.copyright {
-	padding: 25px 0;
-	background: #202021;
+.palitra {
+	width: 244px;
+	height: 19px;
+	position: relative;
 }
 
-.copyright-text { 
-	padding-top: 30px;
-	font-size: 14px;
-	color: #dedede;
+.f_bottom {
+	height: 106px;
+	padding-top: 11px;
+	bottom: 0;
+	left: 0;
+	width: 100%;
+	font: normal 300 12px/31px "Museo Sans Cyrl",sans-serif;
+	background: #080c15;
+	a { color: #fff; }
 }
 
-.dev-logo {
+.palitra_logo {
 	display: block;
-	text-align: right;
-	font-family: Arial, sans-serif;
-	font-size: 11px;
-	color: #fff;
+	width: 244px;
+	height: 19px;
+	position: relative;
 }
+
+.f_bottom .palitra_logo {
+	width: 251px;
+	height: 62px;
+	overflow: hidden;
+	line-height: 0;
+	text-align: right;
+	font-size: 12px;
+}
+
+.f_bottom .palitra_logo div { margin-top: -3px; }
+
+.f_payments {
+	margin-left: -1px;
+	white-space: nowrap;
+	line-height: 30px;
+	height: 30px;
+	position: relative;
+	top: -20px;
+	color: white;
+}
+
+.f_copy { padding-top: 34px; }
+
+.f_bottom .palitra {
+	width: 251px;
+	height: 38px;
+}
+
+.f_count { margin-top: 14px; }
 
 /*--Modals----------------------*/
 
